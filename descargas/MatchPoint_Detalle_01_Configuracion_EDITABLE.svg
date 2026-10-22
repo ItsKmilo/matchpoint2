@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2260" height="3150" viewBox="0 0 2260 3150" version="1.1">
+<rect x="0" y="0" width="2260" height="3150" rx="0" fill="#F6F9FD" stroke="none" stroke-width="1"/>
+<rect x="0" y="0" width="2260" height="250" rx="0" fill="#10284A" stroke="none" stroke-width="1"/>
+<rect x="80" y="65" width="64" height="62" rx="13" fill="#F4B740" stroke="none" stroke-width="1"/>
+<path d="M 97 81 h 30 v 18 q -2 13 -15 13 q -13 0 -15 -13 z" fill="#10284A"/>
+<path d="M 97 86 h -12 q -1 14 13 15 M 127 86 h 12 q 1 14 -13 15" stroke="#10284A" fill="none" stroke-width="5"/>
+<text x="162" y="108" font-family="Arial, Liberation Sans, sans-serif" font-size="62" fill="#FFFFFF" font-weight="bold" text-anchor="start">MATCHPOINT</text>
+<text x="165" y="167" font-family="Arial, Liberation Sans, sans-serif" font-size="27" fill="#D4E9FC" font-weight="normal" text-anchor="start">Mapa de historias de usuario · Tramo 1 de 4</text>
+<rect x="1900" y="58" width="267" height="87" rx="14" fill="#2563EB" stroke="none" stroke-width="1"/>
+<text x="2035" y="114" font-family="Arial, Liberation Sans, sans-serif" font-size="28" fill="#FFFFFF" font-weight="bold" text-anchor="middle">PREPARAR</text>
+<text x="101" y="312" font-family="Arial, Liberation Sans, sans-serif" font-size="37" fill="#10284A" font-weight="bold" text-anchor="start">Administración de competencias</text>
+<text x="2158" y="311" font-family="Arial, Liberation Sans, sans-serif" font-size="22" fill="#536783" font-weight="bold" text-anchor="end">3 ÉPICAS  ·  18 HISTORIAS</text>
+<rect x="85" y="360" width="2090" height="90" rx="14" fill="#2563EB" stroke="none" stroke-width="1"/>
+<text x="125" y="417" font-family="Arial, Liberation Sans, sans-serif" font-size="26" fill="#FFFFFF" font-weight="bold" text-anchor="start">VERDE: ÉPICAS    •    MORADO: ACTIVIDADES    •    AMARILLO: HISTORIAS</text>
+<g id="Tramo1_Modulo_1">
+<rect x="100" y="482" width="660" height="169" rx="14" fill="#BDF0D5" stroke="#6FCB9B" stroke-width="2"/>
+<text x="118" y="521" font-family="Arial, Liberation Sans, sans-serif" font-size="21" fill="#146746" font-weight="bold" text-anchor="start">ÉPICA 01</text>
+<text x="118" y="568" font-family="Arial, Liberation Sans, sans-serif" font-size="32" fill="#163153" font-weight="bold" text-anchor="start">Identidad y permisos</text>
+<rect x="100" y="669" width="660" height="160" rx="13" fill="#F1ECFF" stroke="#CFC1FC" stroke-width="2"/>
+<text x="118" y="705" font-family="Arial, Liberation Sans, sans-serif" font-size="18" fill="#6551A4" font-weight="bold" text-anchor="start">ACTIVIDADES</text>
+<rect x="114" y="717" width="632" height="45" rx="8" fill="#DACDFF" stroke="#C6B8F2" stroke-width="1"/>
+<text x="126" y="749" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#3F3470" font-weight="bold" text-anchor="start">Identificarse</text>
+<rect x="114" y="767" width="632" height="45" rx="8" fill="#DACDFF" stroke="#C6B8F2" stroke-width="1"/>
+<text x="126" y="799" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#3F3470" font-weight="bold" text-anchor="start">Acceder según permisos</text>
+<g id="MP-001" data-story-id="MP-001" data-release="1">
+<rect x="100" y="916" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="114" y="929" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="123" y="954" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-001</text>
+<text x="739" y="956" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="120" y="995" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Identificar a cada usuario</text>
+<text x="120" y="1061" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Cada participante dispone de una identificación única en MatchPoint.</text>
+</g>
+<text x="122" y="1128" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: La identificación distingue sin ambigüedad a los usuarios.</text>
+<g id="MP-002" data-story-id="MP-002" data-release="1">
+<rect x="100" y="1246" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="114" y="1259" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="123" y="1284" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-002</text>
+<text x="739" y="1286" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="120" y="1325" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Autenticar el acceso</text>
+<text x="120" y="1391" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Los usuarios pueden acceder de forma autenticada a las funciones</text>
+<text x="120" y="1416" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">permitidas.</text>
+</g>
+<text x="122" y="1458" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: Una sesión no autenticada no ejecuta acciones restringidas.</text>
+<g id="MP-003" data-story-id="MP-003" data-release="1">
+<rect x="100" y="1576" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="114" y="1589" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="123" y="1614" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-003</text>
+<text x="739" y="1616" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="120" y="1655" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Restringir funciones por rol</text>
+<text x="120" y="1721" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Solo personal autorizado puede administrar torneos y resultados.</text>
+</g>
+<text x="122" y="1788" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: Un participante no puede usar funciones administrativas.</text>
+<g id="MP-004" data-story-id="MP-004" data-release="2">
+<rect x="100" y="2000" width="660" height="220" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="114" y="2013" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="123" y="2038" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-004</text>
+<text x="739" y="2040" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R2</text>
+<text x="120" y="2079" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Consultar mi perfil</text>
+<text x="120" y="2145" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El usuario puede visualizar su identificación y datos de cuenta.</text>
+</g>
+<g id="MP-005" data-story-id="MP-005" data-release="2">
+<rect x="100" y="2252" width="660" height="220" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="114" y="2265" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="123" y="2290" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-005</text>
+<text x="739" y="2292" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R2</text>
+<text x="120" y="2331" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Proteger información ajena</text>
+<text x="120" y="2397" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Cada participante puede ver sus propios pronósticos y movimientos.</text>
+</g>
+<g id="MP-006" data-story-id="MP-006" data-release="3">
+<rect x="100" y="2600" width="660" height="231" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="114" y="2613" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="123" y="2638" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-006</text>
+<text x="739" y="2640" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R3</text>
+<text x="120" y="2679" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Gestionar permisos autorizados</text>
+<text x="120" y="2745" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El administrador puede revisar y ajustar permisos según las políticas</text>
+<text x="120" y="2770" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">definidas.</text>
+</g>
+</g>
+<g id="Tramo1_Modulo_2">
+<rect x="799" y="482" width="660" height="169" rx="14" fill="#BDF0D5" stroke="#6FCB9B" stroke-width="2"/>
+<text x="817" y="521" font-family="Arial, Liberation Sans, sans-serif" font-size="21" fill="#146746" font-weight="bold" text-anchor="start">ÉPICA 02</text>
+<text x="817" y="568" font-family="Arial, Liberation Sans, sans-serif" font-size="32" fill="#163153" font-weight="bold" text-anchor="start">Gestión de torneos</text>
+<rect x="799" y="669" width="660" height="160" rx="13" fill="#F1ECFF" stroke="#CFC1FC" stroke-width="2"/>
+<text x="817" y="705" font-family="Arial, Liberation Sans, sans-serif" font-size="18" fill="#6551A4" font-weight="bold" text-anchor="start">ACTIVIDADES</text>
+<rect x="813" y="717" width="632" height="45" rx="8" fill="#DACDFF" stroke="#C6B8F2" stroke-width="1"/>
+<text x="825" y="749" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#3F3470" font-weight="bold" text-anchor="start">Crear competencia</text>
+<rect x="813" y="767" width="632" height="45" rx="8" fill="#DACDFF" stroke="#C6B8F2" stroke-width="1"/>
+<text x="825" y="799" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#3F3470" font-weight="bold" text-anchor="start">Gestionar participantes</text>
+<g id="MP-007" data-story-id="MP-007" data-release="1">
+<rect x="799" y="916" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="813" y="929" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="822" y="954" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-007</text>
+<text x="1438" y="956" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="819" y="995" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Crear torneo deportivo</text>
+<text x="819" y="1061" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El administrador registra un torneo con información y características</text>
+<text x="819" y="1086" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">básicas.</text>
+</g>
+<text x="821" y="1128" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: El torneo queda identificado y disponible para su</text>
+<text x="821" y="1152" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">administración.</text>
+<g id="MP-008" data-story-id="MP-008" data-release="1">
+<rect x="799" y="1246" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="813" y="1259" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="822" y="1284" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-008</text>
+<text x="1438" y="1286" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="819" y="1325" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Registrar participantes</text>
+<text x="819" y="1391" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El administrador incorpora participantes asociados al torneo.</text>
+</g>
+<text x="821" y="1458" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: Se valida la existencia de cada participante y la relación con el</text>
+<text x="821" y="1482" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">torneo.</text>
+<g id="MP-009" data-story-id="MP-009" data-release="1">
+<rect x="799" y="1576" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="813" y="1589" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="822" y="1614" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-009</text>
+<text x="1438" y="1616" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="819" y="1655" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Consultar torneos creados</text>
+<text x="819" y="1721" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El administrador visualiza los torneos registrados y su información.</text>
+</g>
+<text x="821" y="1788" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: Puede distinguir torneos sin necesidad de consultar archivos</text>
+<text x="821" y="1812" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">separados.</text>
+<g id="MP-010" data-story-id="MP-010" data-release="2">
+<rect x="799" y="2000" width="660" height="220" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="813" y="2013" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="822" y="2038" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-010</text>
+<text x="1438" y="2040" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R2</text>
+<text x="819" y="2079" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Modificar datos del torneo</text>
+<text x="819" y="2145" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El administrador autorizado corrige los datos del torneo cuando</text>
+<text x="819" y="2170" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">corresponda.</text>
+</g>
+<g id="MP-011" data-story-id="MP-011" data-release="2">
+<rect x="799" y="2252" width="660" height="220" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="813" y="2265" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="822" y="2290" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-011</text>
+<text x="1438" y="2292" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R2</text>
+<text x="819" y="2331" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Administrar estado del torneo</text>
+<text x="819" y="2397" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El administrador identifica si un torneo está programado, activo o</text>
+<text x="819" y="2422" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">finalizado.</text>
+</g>
+<g id="MP-012" data-story-id="MP-012" data-release="3">
+<rect x="799" y="2600" width="660" height="231" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="813" y="2613" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="822" y="2638" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-012</text>
+<text x="1438" y="2640" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R3</text>
+<text x="819" y="2679" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Admitir torneos diferentes</text>
+<text x="819" y="2745" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">La plataforma contempla competencias con características distintas.</text>
+</g>
+</g>
+<g id="Tramo1_Modulo_3">
+<rect x="1498" y="482" width="660" height="169" rx="14" fill="#BDF0D5" stroke="#6FCB9B" stroke-width="2"/>
+<text x="1516" y="521" font-family="Arial, Liberation Sans, sans-serif" font-size="21" fill="#146746" font-weight="bold" text-anchor="start">ÉPICA 03</text>
+<text x="1516" y="568" font-family="Arial, Liberation Sans, sans-serif" font-size="32" fill="#163153" font-weight="bold" text-anchor="start">Programación de eventos</text>
+<rect x="1498" y="669" width="660" height="160" rx="13" fill="#F1ECFF" stroke="#CFC1FC" stroke-width="2"/>
+<text x="1516" y="705" font-family="Arial, Liberation Sans, sans-serif" font-size="18" fill="#6551A4" font-weight="bold" text-anchor="start">ACTIVIDADES</text>
+<rect x="1512" y="717" width="632" height="45" rx="8" fill="#DACDFF" stroke="#C6B8F2" stroke-width="1"/>
+<text x="1524" y="749" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#3F3470" font-weight="bold" text-anchor="start">Crear y programar</text>
+<rect x="1512" y="767" width="632" height="45" rx="8" fill="#DACDFF" stroke="#C6B8F2" stroke-width="1"/>
+<text x="1524" y="799" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#3F3470" font-weight="bold" text-anchor="start">Definir opciones válidas</text>
+<g id="MP-013" data-story-id="MP-013" data-release="1">
+<rect x="1498" y="916" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="1512" y="929" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="1521" y="954" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-013</text>
+<text x="2137" y="956" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="1518" y="995" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Agregar evento a un torneo</text>
+<text x="1518" y="1061" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El administrador registra eventos asociados a un torneo existente.</text>
+</g>
+<text x="1520" y="1128" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: Cada evento conserva su vínculo con el torneo</text>
+<text x="1520" y="1152" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">correspondiente.</text>
+<g id="MP-014" data-story-id="MP-014" data-release="1">
+<rect x="1498" y="1246" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="1512" y="1259" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="1521" y="1284" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-014</text>
+<text x="2137" y="1286" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="1518" y="1325" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Definir fecha y cierre</text>
+<text x="1518" y="1391" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El administrador establece cuándo inicia y termina el periodo de</text>
+<text x="1518" y="1416" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">pronósticos.</text>
+</g>
+<text x="1520" y="1458" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: Las fechas de apertura y cierre se registran y aplican.</text>
+<g id="MP-015" data-story-id="MP-015" data-release="1">
+<rect x="1498" y="1576" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="1512" y="1589" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="1521" y="1614" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-015</text>
+<text x="2137" y="1616" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="1518" y="1655" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Configurar opciones de pronóstico</text>
+<text x="1518" y="1721" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El administrador define opciones admitidas para cada evento.</text>
+</g>
+<text x="1520" y="1788" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: Solo se aceptan opciones configuradas para el evento.</text>
+<g id="MP-016" data-story-id="MP-016" data-release="2">
+<rect x="1498" y="2000" width="660" height="220" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="1512" y="2013" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="1521" y="2038" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-016</text>
+<text x="2137" y="2040" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R2</text>
+<text x="1518" y="2079" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Reprogramar evento</text>
+<text x="1518" y="2145" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El administrador autorizado modifica fechas de eventos cuando sea</text>
+<text x="1518" y="2170" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">válido.</text>
+</g>
+<g id="MP-017" data-story-id="MP-017" data-release="2">
+<rect x="1498" y="2252" width="660" height="220" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="1512" y="2265" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="1521" y="2290" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-017</text>
+<text x="2137" y="2292" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R2</text>
+<text x="1518" y="2331" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Administrar estado del evento</text>
+<text x="1518" y="2397" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El administrador puede consultar eventos programados, abiertos o</text>
+<text x="1518" y="2422" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">cerrados.</text>
+</g>
+<g id="MP-018" data-story-id="MP-018" data-release="3">
+<rect x="1498" y="2600" width="660" height="231" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="1512" y="2613" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="1521" y="2638" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-018</text>
+<text x="2137" y="2640" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R3</text>
+<text x="1518" y="2679" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Configurar selección de ganador</text>
+<text x="1518" y="2745" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El administrador habilita opciones de ganador para carreras o</text>
+<text x="1518" y="2770" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">eliminatorias.</text>
+</g>
+</g>
+<rect x="90" y="852" width="2080" height="51" rx="10" fill="#E3F7E8" stroke="none" stroke-width="1"/>
+<text x="110" y="887" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">MVP  ·  ENTREGA 1</text>
+<rect x="90" y="1935" width="2080" height="51" rx="10" fill="#FFF1D8" stroke="none" stroke-width="1"/>
+<text x="110" y="1970" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">CONSOLIDACIÓN  ·  ENTREGA 2</text>
+<rect x="90" y="2529" width="2080" height="51" rx="10" fill="#E8ECFF" stroke="none" stroke-width="1"/>
+<text x="110" y="2564" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">EVOLUCIÓN  ·  ENTREGA 3</text>
+<rect x="90" y="2918" width="2080" height="150" rx="15" fill="#FFFFFF" stroke="#DBE4EF" stroke-width="2"/>
+<text x="121" y="2974" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#10284A" font-weight="bold" text-anchor="start">Etapas propuestas: revisar historias y prioridades con el equipo y la docente.</text>
+<text x="121" y="3029" font-family="Arial, Liberation Sans, sans-serif" font-size="21" fill="#536783" font-weight="normal" text-anchor="start">Archivo vectorial: tarjetas, colores y textos son editables en Illustrator.</text>
+</svg>

@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2260" height="3150" viewBox="0 0 2260 3150" version="1.1">
+<rect x="0" y="0" width="2260" height="3150" rx="0" fill="#F6F9FD" stroke="none" stroke-width="1"/>
+<rect x="0" y="0" width="2260" height="250" rx="0" fill="#10284A" stroke="none" stroke-width="1"/>
+<rect x="80" y="65" width="64" height="62" rx="13" fill="#F4B740" stroke="none" stroke-width="1"/>
+<path d="M 97 81 h 30 v 18 q -2 13 -15 13 q -13 0 -15 -13 z" fill="#10284A"/>
+<path d="M 97 86 h -12 q -1 14 13 15 M 127 86 h 12 q 1 14 -13 15" stroke="#10284A" fill="none" stroke-width="5"/>
+<text x="162" y="108" font-family="Arial, Liberation Sans, sans-serif" font-size="62" fill="#FFFFFF" font-weight="bold" text-anchor="start">MATCHPOINT</text>
+<text x="165" y="167" font-family="Arial, Liberation Sans, sans-serif" font-size="27" fill="#D4E9FC" font-weight="normal" text-anchor="start">Mapa de historias de usuario · Tramo 3 de 4</text>
+<rect x="1900" y="58" width="267" height="87" rx="14" fill="#0891B2" stroke="none" stroke-width="1"/>
+<text x="2035" y="114" font-family="Arial, Liberation Sans, sans-serif" font-size="28" fill="#FFFFFF" font-weight="bold" text-anchor="middle">OPERAR</text>
+<text x="101" y="312" font-family="Arial, Liberation Sans, sans-serif" font-size="37" fill="#10284A" font-weight="bold" text-anchor="start">Créditos, operaciones e historial</text>
+<text x="2158" y="311" font-family="Arial, Liberation Sans, sans-serif" font-size="22" fill="#536783" font-weight="bold" text-anchor="end">3 ÉPICAS  ·  18 HISTORIAS</text>
+<rect x="85" y="360" width="2090" height="90" rx="14" fill="#0891B2" stroke="none" stroke-width="1"/>
+<text x="125" y="417" font-family="Arial, Liberation Sans, sans-serif" font-size="26" fill="#FFFFFF" font-weight="bold" text-anchor="start">VERDE: ÉPICAS    •    MORADO: ACTIVIDADES    •    AMARILLO: HISTORIAS</text>
+<g id="Tramo3_Modulo_1">
+<rect x="100" y="482" width="660" height="169" rx="14" fill="#BDF0D5" stroke="#6FCB9B" stroke-width="2"/>
+<text x="118" y="521" font-family="Arial, Liberation Sans, sans-serif" font-size="21" fill="#146746" font-weight="bold" text-anchor="start">ÉPICA 07</text>
+<text x="118" y="568" font-family="Arial, Liberation Sans, sans-serif" font-size="32" fill="#163153" font-weight="bold" text-anchor="start">Controlar créditos</text>
+<rect x="100" y="669" width="660" height="160" rx="13" fill="#F1ECFF" stroke="#CFC1FC" stroke-width="2"/>
+<text x="118" y="705" font-family="Arial, Liberation Sans, sans-serif" font-size="18" fill="#6551A4" font-weight="bold" text-anchor="start">ACTIVIDADES</text>
+<rect x="114" y="717" width="632" height="45" rx="8" fill="#DACDFF" stroke="#C6B8F2" stroke-width="1"/>
+<text x="126" y="749" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#3F3470" font-weight="bold" text-anchor="start">Verificar disponibilidad</text>
+<rect x="114" y="767" width="632" height="45" rx="8" fill="#DACDFF" stroke="#C6B8F2" stroke-width="1"/>
+<text x="126" y="799" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#3F3470" font-weight="bold" text-anchor="start">Descontar al confirmar</text>
+<g id="MP-037" data-story-id="MP-037" data-release="1">
+<rect x="100" y="916" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="114" y="929" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="123" y="954" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-037</text>
+<text x="739" y="956" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="120" y="995" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Asignar créditos iniciales</text>
+<text x="120" y="1061" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Un responsable autorizado registra los créditos iniciales asignados al</text>
+<text x="120" y="1086" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">usuario.</text>
+</g>
+<text x="122" y="1128" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: La asignación genera movimiento identificable.</text>
+<g id="MP-038" data-story-id="MP-038" data-release="1">
+<rect x="100" y="1246" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="114" y="1259" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="123" y="1284" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-038</text>
+<text x="739" y="1286" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="120" y="1325" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Comprobar saldo suficiente</text>
+<text x="120" y="1391" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Antes de confirmar el pronóstico se verifica el crédito disponible.</text>
+</g>
+<text x="122" y="1458" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: La operación se rechaza si no hay saldo suficiente.</text>
+<g id="MP-039" data-story-id="MP-039" data-release="1">
+<rect x="100" y="1576" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="114" y="1589" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="123" y="1614" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-039</text>
+<text x="739" y="1616" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="120" y="1655" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Descontar sin saldo negativo</text>
+<text x="120" y="1721" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Una participación confirmada descuenta el importe correcto una sola vez.</text>
+</g>
+<text x="122" y="1788" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: El saldo final no queda negativo y el descuento es verificable.</text>
+<g id="MP-040" data-story-id="MP-040" data-release="2">
+<rect x="100" y="2000" width="660" height="220" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="114" y="2013" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="123" y="2038" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-040</text>
+<text x="739" y="2040" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R2</text>
+<text x="120" y="2079" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Mostrar saldo actualizado</text>
+<text x="120" y="2145" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El participante visualiza créditos disponibles después de cada operación.</text>
+</g>
+<g id="MP-041" data-story-id="MP-041" data-release="2">
+<rect x="100" y="2252" width="660" height="220" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="114" y="2265" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="123" y="2290" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-041</text>
+<text x="739" y="2292" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R2</text>
+<text x="120" y="2331" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Registrar premios de créditos</text>
+<text x="120" y="2397" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Los premios aprobados se reflejan en el saldo del participante.</text>
+</g>
+<g id="MP-042" data-story-id="MP-042" data-release="3">
+<rect x="100" y="2600" width="660" height="231" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="114" y="2613" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="123" y="2638" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-042</text>
+<text x="739" y="2640" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R3</text>
+<text x="120" y="2679" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Gestionar ajustes autorizados</text>
+<text x="120" y="2745" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Se realizan ajustes y reversiones justificadas sin borrar operaciones</text>
+<text x="120" y="2770" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">previas.</text>
+</g>
+</g>
+<g id="Tramo3_Modulo_2">
+<rect x="799" y="482" width="660" height="169" rx="14" fill="#BDF0D5" stroke="#6FCB9B" stroke-width="2"/>
+<text x="817" y="521" font-family="Arial, Liberation Sans, sans-serif" font-size="21" fill="#146746" font-weight="bold" text-anchor="start">ÉPICA 08</text>
+<text x="817" y="568" font-family="Arial, Liberation Sans, sans-serif" font-size="32" fill="#163153" font-weight="bold" text-anchor="start">Operaciones confiables</text>
+<rect x="799" y="669" width="660" height="160" rx="13" fill="#F1ECFF" stroke="#CFC1FC" stroke-width="2"/>
+<text x="817" y="705" font-family="Arial, Liberation Sans, sans-serif" font-size="18" fill="#6551A4" font-weight="bold" text-anchor="start">ACTIVIDADES</text>
+<rect x="813" y="717" width="632" height="45" rx="8" fill="#DACDFF" stroke="#C6B8F2" stroke-width="1"/>
+<text x="825" y="749" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#3F3470" font-weight="bold" text-anchor="start">Registrar movimientos</text>
+<rect x="813" y="767" width="632" height="45" rx="8" fill="#DACDFF" stroke="#C6B8F2" stroke-width="1"/>
+<text x="825" y="799" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#3F3470" font-weight="bold" text-anchor="start">Evitar errores y duplicados</text>
+<g id="MP-043" data-story-id="MP-043" data-release="1">
+<rect x="799" y="916" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="813" y="929" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="822" y="954" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-043</text>
+<text x="1438" y="956" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="819" y="995" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Registrar cada movimiento</text>
+<text x="819" y="1061" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">La plataforma conserva usuario, fecha, tipo, cantidad y operación de</text>
+<text x="819" y="1086" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">origen.</text>
+</g>
+<text x="821" y="1128" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: Cada movimiento confirmado es rastreable.</text>
+<g id="MP-044" data-story-id="MP-044" data-release="1">
+<rect x="799" y="1246" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="813" y="1259" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="822" y="1284" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-044</text>
+<text x="1438" y="1286" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="819" y="1325" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Evitar solicitudes repetidas</text>
+<text x="819" y="1391" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">La misma solicitud de participación no provoca cargos duplicados.</text>
+</g>
+<text x="821" y="1458" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: Reintentar una operación confirmada no duplica su efecto.</text>
+<g id="MP-045" data-story-id="MP-045" data-release="1">
+<rect x="799" y="1576" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="813" y="1589" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="822" y="1614" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-045</text>
+<text x="1438" y="1616" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="819" y="1655" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Proteger operaciones simultáneas</text>
+<text x="819" y="1721" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Dos acciones concurrentes no consumen créditos más allá del saldo</text>
+<text x="819" y="1746" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">disponible.</text>
+</g>
+<text x="821" y="1788" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: El sistema mantiene saldo consistente bajo concurrencia.</text>
+<g id="MP-046" data-story-id="MP-046" data-release="2">
+<rect x="799" y="2000" width="660" height="220" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="813" y="2013" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="822" y="2038" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-046</text>
+<text x="1438" y="2040" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R2</text>
+<text x="819" y="2079" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Manejar fallos de operación</text>
+<text x="819" y="2145" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Un fallo antes de confirmar no deja cargos parciales o inconsistentes.</text>
+</g>
+<g id="MP-047" data-story-id="MP-047" data-release="2">
+<rect x="799" y="2252" width="660" height="220" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="813" y="2265" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="822" y="2290" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-047</text>
+<text x="1438" y="2292" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R2</text>
+<text x="819" y="2331" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Vincular movimiento y origen</text>
+<text x="819" y="2397" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Los movimientos se relacionan con pronósticos, premios o ajustes</text>
+<text x="819" y="2422" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">concretos.</text>
+</g>
+<g id="MP-048" data-story-id="MP-048" data-release="3">
+<rect x="799" y="2600" width="660" height="231" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="813" y="2613" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="822" y="2638" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-048</text>
+<text x="1438" y="2640" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R3</text>
+<text x="819" y="2679" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Conservar historial al corregir</text>
+<text x="819" y="2745" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">Una reversión o ajuste no elimina el movimiento original confirmado.</text>
+</g>
+</g>
+<g id="Tramo3_Modulo_3">
+<rect x="1498" y="482" width="660" height="169" rx="14" fill="#BDF0D5" stroke="#6FCB9B" stroke-width="2"/>
+<text x="1516" y="521" font-family="Arial, Liberation Sans, sans-serif" font-size="21" fill="#146746" font-weight="bold" text-anchor="start">ÉPICA 09</text>
+<text x="1516" y="568" font-family="Arial, Liberation Sans, sans-serif" font-size="32" fill="#163153" font-weight="bold" text-anchor="start">Mi actividad e historial</text>
+<rect x="1498" y="669" width="660" height="160" rx="13" fill="#F1ECFF" stroke="#CFC1FC" stroke-width="2"/>
+<text x="1516" y="705" font-family="Arial, Liberation Sans, sans-serif" font-size="18" fill="#6551A4" font-weight="bold" text-anchor="start">ACTIVIDADES</text>
+<rect x="1512" y="717" width="632" height="45" rx="8" fill="#DACDFF" stroke="#C6B8F2" stroke-width="1"/>
+<text x="1524" y="749" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#3F3470" font-weight="bold" text-anchor="start">Consultar participación</text>
+<rect x="1512" y="767" width="632" height="45" rx="8" fill="#DACDFF" stroke="#C6B8F2" stroke-width="1"/>
+<text x="1524" y="799" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#3F3470" font-weight="bold" text-anchor="start">Revisar movimientos</text>
+<g id="MP-049" data-story-id="MP-049" data-release="1">
+<rect x="1498" y="916" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="1512" y="929" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="1521" y="954" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-049</text>
+<text x="2137" y="956" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="1518" y="995" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Consultar mi saldo</text>
+<text x="1518" y="1061" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El participante ve el saldo actual de créditos virtuales.</text>
+</g>
+<text x="1520" y="1128" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: El valor es consistente con los movimientos registrados.</text>
+<g id="MP-050" data-story-id="MP-050" data-release="1">
+<rect x="1498" y="1246" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="1512" y="1259" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="1521" y="1284" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-050</text>
+<text x="2137" y="1286" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="1518" y="1325" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Consultar mis pronósticos</text>
+<text x="1518" y="1391" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El participante accede a sus pronósticos anteriores.</text>
+</g>
+<text x="1520" y="1458" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: Se presentan únicamente sus participaciones.</text>
+<g id="MP-051" data-story-id="MP-051" data-release="1">
+<rect x="1498" y="1576" width="660" height="265" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="1512" y="1589" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="1521" y="1614" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-051</text>
+<text x="2137" y="1616" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">MVP</text>
+<text x="1518" y="1655" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Consultar movimientos propios</text>
+<text x="1518" y="1721" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El participante ve asignaciones, cargos y premios registrados.</text>
+</g>
+<text x="1520" y="1788" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#5C6248" font-weight="normal" text-anchor="start">Criterio: Cada fila identifica tipo, fecha y cantidad.</text>
+<g id="MP-052" data-story-id="MP-052" data-release="2">
+<rect x="1498" y="2000" width="660" height="220" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="1512" y="2013" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="1521" y="2038" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-052</text>
+<text x="2137" y="2040" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R2</text>
+<text x="1518" y="2079" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Consultar estado del pronóstico</text>
+<text x="1518" y="2145" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El participante ve si su predicción está pendiente o liquidada.</text>
+</g>
+<g id="MP-053" data-story-id="MP-053" data-release="2">
+<rect x="1498" y="2252" width="660" height="220" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="1512" y="2265" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="1521" y="2290" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-053</text>
+<text x="2137" y="2292" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R2</text>
+<text x="1518" y="2331" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Ver detalle de transacción</text>
+<text x="1518" y="2397" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El participante revisa el origen y estado de un movimiento.</text>
+</g>
+<g id="MP-054" data-story-id="MP-054" data-release="3">
+<rect x="1498" y="2600" width="660" height="231" rx="13" fill="#FFF1AD" stroke="#E6CA68" stroke-width="2"/>
+<rect x="1512" y="2613" width="111" height="35" rx="7" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="1521" y="2638" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#7C6B39" font-weight="bold" text-anchor="start">MP-054</text>
+<text x="2137" y="2640" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#8D7332" font-weight="bold" text-anchor="end">R3</text>
+<text x="1518" y="2679" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">Filtrar historial personal</text>
+<text x="1518" y="2745" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#4E4D43" font-weight="normal" text-anchor="start">El participante localiza operaciones por fecha o por evento.</text>
+</g>
+</g>
+<rect x="90" y="852" width="2080" height="51" rx="10" fill="#E3F7E8" stroke="none" stroke-width="1"/>
+<text x="110" y="887" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">MVP  ·  ENTREGA 1</text>
+<rect x="90" y="1935" width="2080" height="51" rx="10" fill="#FFF1D8" stroke="none" stroke-width="1"/>
+<text x="110" y="1970" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">CONSOLIDACIÓN  ·  ENTREGA 2</text>
+<rect x="90" y="2529" width="2080" height="51" rx="10" fill="#E8ECFF" stroke="none" stroke-width="1"/>
+<text x="110" y="2564" font-family="Arial, Liberation Sans, sans-serif" font-size="25" fill="#10284A" font-weight="bold" text-anchor="start">EVOLUCIÓN  ·  ENTREGA 3</text>
+<rect x="90" y="2918" width="2080" height="150" rx="15" fill="#FFFFFF" stroke="#DBE4EF" stroke-width="2"/>
+<text x="121" y="2974" font-family="Arial, Liberation Sans, sans-serif" font-size="24" fill="#10284A" font-weight="bold" text-anchor="start">Etapas propuestas: revisar historias y prioridades con el equipo y la docente.</text>
+<text x="121" y="3029" font-family="Arial, Liberation Sans, sans-serif" font-size="21" fill="#536783" font-weight="normal" text-anchor="start">Archivo vectorial: tarjetas, colores y textos son editables en Illustrator.</text>
+</svg>
