@@ -51,7 +51,7 @@ Los créditos MatchPoint son **virtuales** y no tienen valor monetario ni retiro
 - Santiago Solano — Scrum Master
 - Maicol Rubiano — Backend Developer
 - Diego Romero — Frontend Developer
-- Camilo Bastias — Database Administrator (DBA)
+- Camilo Bastidas — Database Administrator (DBA)
 
 ---
 

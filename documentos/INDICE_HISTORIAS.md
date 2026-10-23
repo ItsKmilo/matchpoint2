@@ -1,7 +1,7 @@
 # MatchPoint · Índice de Historias de Usuario (Optimizado a 2 Sprints)
 
 **Empresa:** Nexo Digital Labs  
-**Equipo:** Santiago Solano · Maicol Rubiano · Diego Romero · Camilo Bastias  
+**Equipo:** Santiago Solano · Maicol Rubiano · Diego Romero · Camilo Bastidas  
 **Estado:** Propuesta ajustada a 16 Historias de Usuario distribuidas en 2 Sprints (Entregas).
 
 ## Organización de Sprints

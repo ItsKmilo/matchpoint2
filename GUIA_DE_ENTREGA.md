@@ -51,7 +51,7 @@ git push -u origin main
 - [ ] Al buscar `MP-003`, se muestra su historia y se abre el detalle.
 - [ ] Los botones para descargar SVG y Excel abren los archivos correctos.
 - [ ] La URL se abre también desde un celular.
-- [x] Los cuatro nombres están correctos: Santiago Solano, Maicol Rubiano, Diego Romero y Camilo Bastias.
+- [x] Los cuatro nombres están correctos: Santiago Solano, Maicol Rubiano, Diego Romero y Camilo Bastidas.
 
 ### Nota académica
 
